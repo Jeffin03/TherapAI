@@ -1,27 +1,34 @@
-# Therapai
+# TherapAI Assistant
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+TherapAI Assistant is an innovative solution that combines AI with therapeutic techniques to offer personalized support for individuals facing health challenges. Our solution helps manage health-related anxiety, contributing to enhanced mental well-being.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Personalized therapeutic content generated using AI
+- User authentication and data storage with Firebase
+- User-friendly interface built with Angular
 
-## Code scaffolding
+## Tech Stack
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular for frontend
+- Firebase for backend (Authentication, Firestore, Cloud Functions)
+- TensorFlow for AI model development
 
-## Build
+## Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Running unit tests
+### Prerequisites
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Node.js and npm
+- Angular CLI
+- Firebase CLI
+- Python and TensorFlow for AI model development
 
-## Running end-to-end tests
+## Author
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Your Name - [Jeffin Issac](https://github.com/Jeffin03)
 
-## Further help
+Project Link: [TherapAI Assistant](https://github.com/your_username_/TherapAI)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Live Website Link: https://therap-ai-dn3y.vercel.app/
