@@ -14,17 +14,6 @@ TherapAI Assistant is an innovative solution that combines AI with therapeutic t
 - Firebase for backend (Authentication, Firestore, Cloud Functions)
 - TensorFlow for AI model development
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Node.js and npm
-- Angular CLI
-- Firebase CLI
-- Python and TensorFlow for AI model development
-
 ## Author
 
 Your Name - [Jeffin Issac](https://github.com/Jeffin03)
