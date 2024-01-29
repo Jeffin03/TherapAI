@@ -18,6 +18,4 @@ TherapAI Assistant is an innovative solution that combines AI with therapeutic t
 
 Your Name - [Jeffin Issac](https://github.com/Jeffin03)
 
-Project Link: [TherapAI Assistant](https://github.com/your_username_/TherapAI)
-
 Live Website Link: https://therap-ai-dn3y.vercel.app/
