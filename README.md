@@ -17,5 +17,3 @@ TherapAI Assistant is an innovative solution that combines AI with therapeutic t
 ## Author
 
 Your Name - [Jeffin Issac](https://github.com/Jeffin03)
-
-Live Website Link: https://therap-ai-dn3y.vercel.app/
