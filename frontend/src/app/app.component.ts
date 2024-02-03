@@ -11,5 +11,5 @@ import { LandingPageComponent } from "./landing-page/landing-page.component";
     imports: [CommonModule, RouterOutlet, LandingPageComponent]
 })
 export class AppComponent {
-  title = 'frontend';
+  title = 'TherapAI Assistant';
 }
