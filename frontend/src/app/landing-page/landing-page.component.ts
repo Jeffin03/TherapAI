@@ -3,11 +3,11 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { IntroSectionComponent } from './intro-section/intro-section.component';
 
 @Component({
-  selector: 'app-landing-page',
-  standalone: true,
-  imports: [],
-  templateUrl: './landing-page.component.html',
-  styleUrl: './landing-page.component.css'
+    selector: 'app-landing-page',
+    standalone: true,
+    templateUrl: './landing-page.component.html',
+    styleUrl: './landing-page.component.css',
+    imports: [NavbarComponent]
 })
 export class LandingPageComponent {
   // Declare instances of the sub components
