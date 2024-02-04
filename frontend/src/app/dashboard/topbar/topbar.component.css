@@ -1,0 +1,18 @@
+nav{
+    background-color: #1c1c1c;
+    height:55px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+nav > img{
+    width:8%;
+}
+
+nav > button{
+    padding: 20px;
+    border-radius: 50%;
+    border:none;
+    margin-right: 10px;
+}
