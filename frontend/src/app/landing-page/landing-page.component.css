@@ -1,0 +1,90 @@
+body{
+  background-color: #004C6D;
+  width: 100vw;
+  height:100vh;
+  color:white;
+  font-family: sans-serif;
+}
+
+li a{
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  margin-right: 20px;
+  list-style: none;
+}
+
+nav{
+    width:auto;
+    height:30px;
+    background-image: linear-gradient(to bottom, #045B81, #14536D);
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+button {
+  padding: 8px;
+  background-color: #0693cf;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+button:hover{
+  background-color: #14536D;
+
+}
+
+.intro{
+  background-color: #23262f82;
+  width: 80vw;
+  height: 65vh;
+  display: flex;
+  margin: 20px auto;
+  padding: 40px; 
+  border-radius:20px;
+}
+
+.left-section{
+  width: 60%;
+  padding: 20px;
+  line-height: 1.5;
+  
+}
+.right-section{
+  width: 40%;
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.right-section button{
+  padding: 10px 20px;
+  background-color: #0693cf;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: bold;
+
+}
+
+.right-section button:hover{
+  background-color: #14536D;
+}
+
+.right-section img{
+  width: 20rem;
+}
