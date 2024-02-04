@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
     imports: []
 })
 export class LandingPageComponent {
-  
+    title = 'TherapAI Assistant';
+    constructor() {}  
   }
