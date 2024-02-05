@@ -1,0 +1,41 @@
+.sidebar {
+    position: fixed;
+    top: 5;
+    left: 0;
+    height: 100%;
+    width: 150px;
+    background-color: #323232;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    transition: 0.5s;
+}
+
+.top > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color:#fff;
+}
+
+.bottom {
+    width:100%;
+    
+}
+
+button {
+    border-radius: 20px;
+    width: 80%;
+    border: none;
+    padding: 10px;
+    position: absolute;
+    bottom: 10rem;
+}
+  
+button:hover {
+    background-color: #f8f9fa;
+    color: #000;
+    cursor: pointer;
+}
