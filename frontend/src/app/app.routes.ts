@@ -5,8 +5,8 @@ import { SignupComponent } from './register/signup/signup.component';
 import { DashboardComponent } from './dashboard/dashboard.component'; 
 
 export const routes: Routes = [
-    { path: 'landing', component: LandingPageComponent },
+    { path: '', component: LandingPageComponent },
     { path: 'login', component: LoginComponent },
     { path: 'register', component: SignupComponent },
-    { path: '', component: DashboardComponent },
+    { path: 'dashboard', component: DashboardComponent },
 ];
