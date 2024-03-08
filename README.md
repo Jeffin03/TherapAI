@@ -1,4 +1,4 @@
-# TherapAI Assistant
+# TherapAI Assistant | [On Hold]
 
 TherapAI Assistant is an innovative solution that combines AI with therapeutic techniques to offer personalized support for individuals facing health challenges. Our solution helps manage health-related anxiety, contributing to enhanced mental well-being.
 
